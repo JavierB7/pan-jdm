@@ -7,6 +7,10 @@ body {
 header{
     background-color: #806d5e;
 }
+
+.card-group{
+    background-color: #806d5e;
+}
   
 footer {
     position: absolute;
@@ -37,6 +41,31 @@ nav{
         border-width: 3px;
         border-style: solid;
         
+}
+
+.search-nav{
+    margin-left: 190px;
+}
+
+.btn-search {
+
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 15px;
+    width: 10px;
+    height: 37px;
+    color:#703209;
+    padding-top:-15px;
+    padding-bottom:2px;
+    padding-left:4px;
+    margin-top: 4px;
+    margin-left: 5px;
+    padding-right:40px;
+    background-color:#ffd9ba;
+    border-color: #7a4704;
+    border-width: 3px;
+    border-style: solid;
+    
 }
 
 .btn-nav:hover {

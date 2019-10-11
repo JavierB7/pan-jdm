@@ -1,0 +1,46 @@
+Estimados estudiantes, 
+
+Disculpen que no les envie los enlaces listados en el correo. A continuacion envio la informacion faltante, unos en relación a la actividad otros de cultura general para uds. 
+
+Quedo atenta a sus dudas, 
+
+CSS Modular Architecture (Especificos para la evaluación listada)
+https://snipcart.com/blog/organize-css-modular-architecture 
+https://www.sitepoint.com/css-architecture-block-element-modifier-bem-atomic-css/ 
+https://mattstauffer.com/blog/organizing-css-oocss-smacss-and-bem/    
+Checklist de lineamientos de accessibilidad WCAG: https://webaim.org/standards/wcag/checklist
+Herramienta para verificar la razón de contraste entre color de fondo y color de texto: https://contrast-ratio.com/
+Un PDF con una infografía sobre la especificidad de CSS http://www.standardista.com/wp-content/uploads/2012/01/specificity3.pdf , El PDF viene de regalo en este articulo (muy bueno) sobre el tema http://www.standardista.com/css3/css-specificity/
+Emmet https://emmet.io/
+CodePen https://codepen.io/ (util para hacer pruebas de concepto de estilos)
+Imagenes gratis
+Unsplash https://unsplash.com/ (backgrounds mas que todo)
+https://generated.photos/
+(fake) Data gratis
+https://randomuser.me/ 
+https://www.fakepersongenerator.com/
+Placeholder Images
+https://placeholder.com/
+https://dummyimage.com/
+https://placeimg.com/
+http://lorempixel.com/
+https://www.fillmurray.com/
+Image Optimizer https://imagecompressor.com/
+Taskrunners/bundlers
+Grunt https://gruntjs.com/
+Gulp https://gulpjs.com/
+Webpack https://webpack.js.org/
+Prepros (no es un taskrunner, sino un app para transpilar sass, entre otras cosas, tiene un “free unlimited trial” version, disponible en https://prepros.io/ )
+Si llegan a usar algun traskrunner, pillen lo que hace UnCSS https://github.com/uncss/uncss
+Librerías de mixins:
+https://www.oddbird.net/susy/
+https://www.bourbon.io/
+http://breakpoint-sass.com/
+http://gillesbertaux.com/andy/
+http://colindresj.github.io/saffron/
+Mas enlaces interesantes
+https://css-tricks.com/ (uno de mis blog favoritos en torno al tema)
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (todo lo que deberian saber de flexbox)
+http://caniuse.com/ Aqui pueden verificar el soporte en los navegadores de una caracteristica, por ejemplo, busquen “scroll-behavior” 
+https://caniuse.email/ Idem que el anterior, para HTML email, que por cierto no tocamos ese día disappointed face 
+Juegos ni tan juegos https://gist.github.com/jelur/aae1bfc9a0f1d29d69d5e29cd32aaacb en este enlace estoy recopilando algunos juegos creados para aprender temas especificos de CSS o diseño.

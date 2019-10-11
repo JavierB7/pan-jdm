@@ -1,0 +1,68 @@
+Estimados estudiantes,
+
+Los saludo primeramente ofreciéndoles mis más sinceras disculpas por lo desatendidos que han estado en el desarrollo de la asignatura. Las condiciones actuales del país y de la Universidad requirieron re plantearnos drásticamente las prioridades de trabajo por motivos personales/profesionales, y sin duda el impacto directo lo esta recibiendo la Universidad y por ende uds.
+
+Sin embargo, en buena lid de finalizar la asignatura haciendo actividades de verdadero aporte para el ejercicio de su carrera a continuación listo las actividades que vamos a realizar para finalizar las evaluaciones del segundo y tercer parcial respectivamente:
+
+Acerca del Segundo Parcial
+
+-          Implementación del trabajo grupal, versión desktop (50 puntos) – Fecha límite 11 de Octubre
+
+Consiste en la implementación en formato HTML + CSS de todas las interfaces de su proyecto grupal. Solo se tomará en cuenta la evaluación en formato desktop. Deben tomar los wireframes que desarrollaron en el primer parcial y hacer la implementación web. Los aspectos a evaluar en este punto básicamente son:
+
+o   Deben estar presentes todas las interfaces en donde el usuario pueda hacer clic
+
+o   Cada interfaz debe corresponder con los wireframes diseñados
+
+o   La implementación HTML debe tener sentido semántico
+
+o   Deben entregar un producto único, es decir todo esta enlazado desde una interfaz principal
+
+o   No se requiere funcionalidad alguna, pueden manejar las interfaces que lo requieran con data ficticia.
+
+o   Deben tener en cuenta aspectos de ortografía y gramática de acuerdo con el idioma con el que desarrollan las interfaces
+
+o   Los 50 puntos de la actividad se dividen en partes iguales en las interfaces que deben existir de acuerdo con los wireframes entregados. Así, cada interfaz tiene su valoración individual de 50/N, y los errores de una interfaz no afectan los de otra. Sin embargo, para que la evaluación sea válida TODO debe estar enlazado.
+
+o   La optimización responsive podrá ser considerada como valoración extra de su trabajo aplicable si y solo si al final de la asignatura al estudiante le hace falta calificación para subir de nota final.
+
+ 
+
+-          Definición de un esquema de trabajo y nomenclaturas de desarrollo HTML – CSS (50 puntos) – Fecha límite 11 de Octubre
+
+Si bien en este punto todos saben implementar interfaces web HTML + CSS, existen muchos factores a tener en cuenta para que el manejo de CSS sea escalable y fácil de mantener en el tiempo. Para ello existen un conjunto de estándares y normas que en la medida en que se respeten contribuirán a tener como resultado una hoja de estilos entendible por cualquier integrante de un equipo de trabajo. La evaluación consiste en revisar la información de los siguientes enlaces correspondiente a los estándares mundiales de nomenclaturas y definición de estilos y a) optar por un esquema para su trabajo o b) definir su propio esquema para la construcción de sus hojas de estilos y layout HTML.  Los aspectos a evaluar en este punto básicamente son:
+
+o   Documento PDF explicativo del estándar o parte del estándar a utilizar.
+
+§  Además del estándar en cuestión debe contener la explicación de porqué tomarán la decisión de la nomenclatura seleccionada con respecto alas demás  opciones disponibles en la información listada.
+
+o   Evidencia en sus implementación HTML + CSS del estándar definido. De manera aleatoria seleccionaré el 10% de las interfaces web implementadas para revisar que hacen uso del estándar definido en este documento.
+
+Acerca del Tercer Parcial
+
+-          Aplicación del test de UX de acuerdo con las personas definidas en el primer parcial (100 puntos) - Fecha límite 11 de Octubre
+
+Tal como se discutió en clase lo más valioso de definir personas y escenarios es comprobar con ellos que el producto en cuestión se comporta como se espera. Para ello deben seleccionar 5 personas que correspondan con los perfiles de usuario definidos/entregados en el primer parcial. Para cada tipo de usuario deben definir un listado de 10 tareas claves que se supone que ese usuario debe ser capaz de completar en su producto. Por cada tarea deben medir si el usuario es o no capaz de completarla, y si lo logra: si lo hizo o no rápidamente (recuerden lo que hablamos de la velocidad medida en numero de clics). Al final lo que tendremos es una valoración por tipo de usuario de la efectividad del producto, es decir la cantidad de operaciones que si pudo realizar, y de estas una medida valorativa de la velocidad con la que lo hizo.
+
+Les recuerdo que resultados negativos siguen siendo resultados, es decir, la calificación final de este informe no depende de la calidad de sus interfaces, sino de la aplicación del tests y presentación del informe final, siempre pensando en calidad comercial y no académica.
+
+El producto final de esta evaluación es un documento PDF con la explicación de la evaluación de UX realizada explicando la selección de personas, definición de tareas, y luego los resultados por cada tipo de personas, expresando al final una percepción general de los resultados obtenidos y las posibles estrategias que podrían usar para mejorar los resultados en caso que sea requerido.
+
+Tengan en cuenta que es FUNDAMENTAL para que la aplicación de este tipo de pruebas de UX sea valida que NO DEBEN sesgar la opinión del usuario al tratar de darle información que lo ayude a completar las operaciones.
+
+Algunas consideraciones finales
+
+-          Todas las entregas se realizarán de manera virtual
+
+-          Todas las evaluaciones requieren que cada integrante realice la coevaluación de sus compañeros, es decir el 11 de octubre debo recibir:
+
+o   Un correo único de uno de los integrantes de su equipo con copia a los demás haciendo entrega de todas las actividades listadas.
+
+o   Un correo de cada integrante del equipo dirigido solamente a mi indicando la coevaluación de sus compañeros por cada una de las actividades listadas en este documento.
+
+-          Debido a que la entrega final de las actividades coincide con el final del semestre no es posible asignar prórroga alguna.
+
+-          El día 13 de octubre recibirán las calificaciones definitivas de la asignatura. Las personas que deseen revisión de las mismas podrán hacerlo de manera virtual el lunes 14 de octubre en el horario de la mañana de 9.30am – 12m previa solicitud por correo electrónico.
+
+Quedo atenta a sus dudas, 
+
