@@ -1,7 +1,7 @@
 body {
     min-height: 100vh;
     position: relative;
-    margin: 0;
+    margin: 0px;
 }
 
 header{
@@ -23,20 +23,19 @@ nav{
 }
 
 .btn-nav {
-
         text-decoration:none;
         font-weight: 600;
         font-size: 15px;
         width: 190px;
         height: 37px;
-        color:#703209;
+        color:#ffb06e;
         padding-top:-15px;
         padding-bottom:10px;
         padding-left:40px;
         margin-top: 5px;
         margin-left: 5px;
         padding-right:40px;
-        background-color:#ffd9ba;
+        background-color:#7a4704;
         border-color: #7a4704;
         border-width: 3px;
         border-style: solid;
@@ -66,6 +65,25 @@ nav{
     border-width: 3px;
     border-style: solid;
     
+}
+
+.btn-body{
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 15px;
+    width: 50%;
+    height: 45px;
+    color:#703209;
+    padding-top:-15px;
+    padding-bottom:10px;
+    padding-left:40px;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-right:40px;
+    background-color:#ffd9ba;
+    border-color: #7a4704;
+    border-width: 3px;
+    border-style: solid;
 }
 
 .btn-nav:hover {
