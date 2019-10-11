@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="css/general.css">
+
+    <title>Panaderia</title>
+</head>
+<body >
+    <!-- ******************** BARRA SUPERIOR ********************************* -->
+    <header class="container-fluid">
+        <div class="row">
+        <a href="index.html" class="navbar-brand">><img src="img/home/logoHome.png" height="50px;" width="50px;" alt="Logo"></a><h1>Panadería</h1>
+        </div>
+        <nav class="navbar navbar-expand-lg">
+                <div class="btn-toolbar mb-3" role="toolbar" aria-label="Toolbar with button groups">
+           <button type="button" class="btn btn-nav">Panadería</button>
+           <button type="button" class="btn btn-nav">Repostería</button>
+           <button type="button" class="btn btn-nav">Dulcería</button>
+           <button type="button" class="btn btn-nav">Contacto</button>
+
+           <form class="form-inline my-1 my-lg-1 search-nav">
+                <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
+                <button class="btn btn-search my-2 my-sm-0" type="submit"><img class="center-block" src="img/home/lupa.png" height="22px;" width="38px;" alt="Logo"></button>
+              </form>
+            </div>
+        </nav>
+    </header>
+
+    <!-- ************* BREAD CRUMS *********  -->
+    <div class="container">
+    <div class="row justify-content-right">
+      <p> 
+        <a href="index.html">Página Principal</a> > <a href="">Panadería</a> > <a href="">Tipo-Pan</a> > <a href="">Súper Pan</a><br>
+      </p>
+    </div>
+    </div>
+    <!-- *********************** PRODUCTO ********************-->
+    <section>
+      <div class="container">
+      <div class="row justify-content-center">
+        <!-- **** COLUMNA IZQUIERDA *** -->
+        <div class="col-md-6">
+          <img src="img/producto/super-pan.jpg" width="100%">
+        </div>
+        <!--  **** COLUMNA DERECHA *** -->
+        <div class="col-md-6">
+          <h3>Súper Pan</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua.</p>
+
+          <a class="nav-link  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Tamaño
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Pequeño</a>
+              <a class="dropdown-item" href="#">Mediano</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Grande</a>
+            </div><br>
+
+            <table width="50%;">
+              <tr>
+                <th>Ajonjolí</th>
+                <th><input type="checkbox" name="ajonojoli"></th>
+              </tr>
+              <tr>
+                <th>Afrecho</th>
+                <th><input type="checkbox" name="afrecho"></th>
+              </tr>
+              <tr>
+                <th>Cantidad</th>
+                <th><input type="number" name="cantidad" min="1" max="100" step="1" value="1"></th>
+              </tr>
+            </table>
+            <br><br><br>
+            <div class="container justify-content-center">
+              <h4><b>Total:</b>129.999,99$</h4>
+              <button class="btn btn-body">Añadir al Carrito!</button>
+            </div>
+        </div>
+      </div>
+      </div>
+      </section>
+
+      <!-- ***** OTROS PRODUCTOS ***** -->
+      <section>
+      <div class="container">
+        <div class="row justify-content-right">
+          
+        </div>
+      </div>
+      </section>
+
+      <!-- ***** COMENTARIOS DE USUARIOS **** --->
+      <section class="bg-light" id="team">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h3 class="section-subheading text-muted">Comentarios:</h3>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-sm-6 text-center">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="img/team/1.jpg" height="200px;" alt="">
+              <h4>Karola Malindrania</h4>
+              <p class="text-muted">El Súper Pan que salva la patria</p>
+              <p class="text-muted">"Estaba un día en mi casa y mi crush me envió un mensaje diciendo que estaba cerca de mi casa y queria pasar a saludar, mi nevera estaba vacía gracias a la crisis termo-nuclear-electro-psico-económica de los pitiyankis y la única cosa que podía salvarme era un hermoso Super Pan. Ahora estamos saliendo, le dije que lo había horneado yo misma y pidió mi mano en matrimonio enseguida."</p>
+            </div>
+          </div>
+          <div class="col-sm-6 text-center">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="img/team/2.jpg" height="200px;" alt="">
+              <h4>Rogelio  Gerifruncio</h4>
+              <p class="text-muted">Jamás había visto una tienda tan conveniente</p>
+              <p class="text-muted">"He sido un amante del pan desde que tengo memoria, y siempre paso mi tiempo libre recorriendo la ciudad en busca de nuevos negocios de panadería, lamentablemente el ciclo de vida de los empresarios en este país suele tener beneficios inversamente proporcionales al aumento de la inflación, pero ahora puedo estar sentado en mi sala, pedir un Super Pan, y no me tengo que mover porque el drone vuela dentro de la casa desde el balcón! Esto es genial!".</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      </section>
+
+    
+     
+    <footer class="container-fluid">
+            <h1>footer</h1>
+     </footer>
+
+</body>
+</html>
