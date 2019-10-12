@@ -8,6 +8,20 @@ header{
     background-color: #806d5e;
 }
 
+a{
+    color: #806d5e;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #805737;
+}
+
+b{
+    color: #806d5e;
+}
+
 .container-low-home{
     height: 350px;
     background-color: #ffd9ba;
@@ -172,3 +186,5 @@ nav{
 .container {
   padding: 2px 16px;
 }
+
+
