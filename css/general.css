@@ -27,6 +27,10 @@ b{
     background-color: #ffd9ba;
 }
 
+.row-title{
+    width: 1050px;
+}
+
 .search-nav-position{
     margin-left: 700px;
     margin-top: -40px;
@@ -99,7 +103,7 @@ nav{
 }
 
 .row-home{
-    width: 1250px;
+    width: 1150px;
 }
 
 .btn-nav {
