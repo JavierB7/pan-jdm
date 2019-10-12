@@ -90,6 +90,11 @@ b{
     margin-top:-200px;
 }
 
+.justify-content-footer{
+
+    width: 1000px;
+}
+
 nav{
     background-color: #ffd9ba;
 }
