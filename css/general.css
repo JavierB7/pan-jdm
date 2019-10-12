@@ -8,18 +8,38 @@ header{
     background-color: #806d5e;
 }
 
+.container-low-home{
+    height: 350px;
+    background-color: #ffd9ba;
+}
+
+.search-nav-position{
+    margin-left: 700px;
+    margin-top: -40px;
+}
+
 .card-group{
     background-color: #806d5e;
 }
   
-footer {
-    width: 100%;
+.container-footer {
+    position: absolute;
     bottom: 0;
+    height: 170px;
     background-color: #806d5e;
+    margin-top:-200px;
 }
 
 nav{
     background-color: #ffd9ba;
+}
+
+.cotainer-main{
+    height: 1000px;
+}
+
+.row-home{
+    width: 1250px;
 }
 
 .btn-nav {
