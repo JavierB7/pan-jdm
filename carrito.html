@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="css/general.css">
+
+    <title>Carrito</title>
+</head>
+<body >
+    <!-- ******************** BARRA SUPERIOR ********************************* -->
+    <header class="container-fluid">
+        <div class="row">
+        <a href="index.html" class="navbar-brand"><img src="img/home/logoHome.png" height="50px;" width="50px;" alt="Logo"></a><h1>Panadería</h1>
+        </div>
+        <nav class="navbar navbar-expand-lg">
+                <div class="btn-toolbar mb-3" role="toolbar" aria-label="Toolbar with button groups">
+           <button type="button" class="btn btn-nav">Panadería</button>
+           <button type="button" class="btn btn-nav">Repostería</button>
+           <button type="button" class="btn btn-nav">Dulcería</button>
+           <button type="button" class="btn btn-nav">Contacto</button>
+
+           <div class="search-nav-position">
+           <form class="form-inline my-1 my-lg-1 search-nav">
+                <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search">
+                <button class="btn btn-search my-2 my-sm-0" type="submit"><img class="center-block" src="img/home/lupa.png" height="22px;" width="38px;" alt="Logo"></button>
+              </form>
+            </div>
+          </div>
+        </nav>
+    </header>
+
+    
+    <main class="cotainer-main-carrito">
+
+   
+    <!-- ************* BREAD CRUMS *********  -->
+    <div class="container">
+      <div class="row">
+        <p> 
+          <a href="index.html">Página Principal</a> > <a href="">Cuenta de Usuario</a> > Carrito<br>
+        </p>
+      </div>
+      </div><br>
+    <!-- *********************** CARRITO ********************-->
+    
+    <h1 class="justify-content-mediun">Carrito</h1>
+    
+    <div class="row justify-content-center">
+            <div class="col-md-3"> </div>
+            <div class="col-md-3"> nombre</div>
+            <div class="col-md-4"> precio</div>
+            <div class="col-md-2"> 
+
+    </div>
+    
+    <section>
+      <div class="container">
+      <div class="row justify-content-left">
+        <!-- **** COLUMNA IZQUIERDA *** -->
+        <div class="col-md-8">
+                
+                <img height="150px;" width="150px;" src="img/home/logoHome.png">
+                <label class="col-md-3 row-label">Bolita de queso</label>
+                <label class="col-md-3 row-label">12.000$</label>
+                <button class="btn btn-carrito" >Modificar </button>
+                <button class="btn btn-carrito" >Borrar </button>
+                <br>
+                <img height="150px;" width="150px;" src="img/home/logoHome.png">
+                <label class="col-md-3 row-label">Bolita de queso</label>
+                <label class="col-md-3 row-label">8.000$</label>
+                <button class="btn btn-carrito" >Modificar </button>
+                <button class="btn btn-carrito" >Borrar </button>
+                <br>
+                <img height="150px;" width="150px;" src="img/home/logoHome.png">
+                <label class="col-md-3 row-label">Bolita de queso</label>
+                <label class="col-md-3 row-label">6.500$</label>
+                <button class="btn btn-carrito" >Modificar </button>
+                <button class="btn btn-carrito" >Borrar </button>
+                <br>
+                <img height="150px;" width="150px;" src="img/home/logoHome.png">
+                <label class="col-md-3 row-label">Bolita de queso</label>
+                <label class="col-md-3 row-label">14.000$</label>
+                <button class="btn btn-carrito" >Modificar </button>
+                <button class="btn btn-carrito" >Borrar </button>
+                <br>
+                <div class="container justify-content-total">
+                        <h4><b>Total:</b> 30.000$</h4>
+                        <button class="btn btn-carrito" >Pagar </button>
+                </div>
+                <label>Envolver para regalo: </label>
+                <input type="checkbox" name="regalo">
+               
+        </div>
+        
+        <!--  **** COLUMNA DERECHA *** -->
+        <div class="col-md-4">
+         
+                <div class="col-md-4">
+                        <h3>Otros usuarios tambíen compraron: </h3>
+                        <br>
+                        <img height="150px;" width="150px;" src="img/home/logoHome.png">
+                              <p>Cupcake de Chocolate</p>
+                          <br><br><br>
+                      </div>
+        </div>
+        <br><br>
+        <!--  **** ABAJOOO *** -->
+        <div class="col-md-12">
+                <br>
+                <div class="col-md-12">
+                        <h3>Otros usuarios tambíen compraron: </h3>
+                        <br>
+                        <div class="row">
+                            <img class="col-md-2" height="150px;" width="150px;" src="img/home/logoHome.png">
+                                
+                            <img class="col-md-2" height="150px;" width="150px;" src="img/home/logoHome.png">
+
+                            <img class="col-md-2" height="150px;" width="150px;" src="img/home/logoHome.png">
+                                
+                            <img class="col-md-2" height="150px;" width="150px;" src="img/home/logoHome.png">
+                        </div>
+                        <div class="row">
+                                <p class="col-md-2">Cupcake de Chocolate</p>
+                                <p class="col-md-2">Cupcake de Chocolate</p>
+                                <p class="col-md-2">Cupcake de Chocolate</p>
+                                <p class="col-md-2">Cupcake de Chocolate</p>
+                            </div>
+                              
+                          <br><br><br>
+                      </div>
+        </div>
+      </div>
+      </div>
+      </section>
+      <br>
+      <br>
+
+    </main>
+     
+      <footer class="container-footer container-fluid">
+            
+        <section>
+
+            <h4 class="container-fluid">Redes Sociales</h4>
+            <br>
+  
+            <div class="row row-home">
+  
+              <article class="col-md-4 center-block text-center"><img src="img/home/logoHome.png" height="50px;" width="50px;" alt="Logo"></article>
+              <article class="col-md-4 center-block text-center"><img src="img/home/logoHome.png" height="50px;" width="50px;" alt="Logo"></article>
+              <article class="col-md-4 center-block text-center"><img src="img/home/logoHome.png" height="50px;" width="50px;" alt="Logo"></article>
+  
+            </div>
+            
+          </section>
+
+     </footer>
+
+</body>
+</html>

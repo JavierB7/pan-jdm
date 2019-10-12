@@ -21,6 +21,48 @@ header{
 .card-group{
     background-color: #806d5e;
 }
+
+.row-label{
+    margin-left: 90px;
+}
+
+.justify-content-total{
+    margin-left: 500px;
+}
+
+.btn-carrito{
+    margin-left: 200px;
+    margin-top: -85px;
+    height: 80px;
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 15px;
+    width: 130px;
+    height: 45px;
+    color:#703209;
+    padding-top:-15px;
+    padding-bottom:10px;
+    padding-left:32px;
+    padding-right:32px;
+    background-color:#ffd9ba;
+    border-color: #7a4704;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.btn-body{
+    row-label-right
+}
+
+.justify-content-car{
+    margin-top: -41px;
+    margin-left: 540px;
+}
+
+.justify-content-mediun{
+
+    margin-left: 350px;
+}
   
 .container-footer {
     position: absolute;
@@ -36,6 +78,10 @@ nav{
 
 .cotainer-main{
     height: 1000px;
+}
+
+.cotainer-main-carrito{
+    height: 1410px;
 }
 
 .row-home{
